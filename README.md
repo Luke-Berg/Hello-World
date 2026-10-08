@@ -2,9 +2,7 @@
 My first practice repository. 
 
 # My First Repository
-This is a sample of a good README.md file that can be used when describing a project.  You can change the headings to fit your needs, but the idea is to provide a summary of the project, the files used, programs written and how to execute the program.  Think of this as documentation.  
- This is a test.  
- Lets see what happens.   
+This is a sample of a good README.md file that can be used when describing a project.  
  
 ## Table of contents
 
@@ -25,9 +23,11 @@ Practice using GitHub by creating a sample repository. Make sure you add a descr
 
 ## Tools Used 
 
-Discussed all programming languages and tools used in this project.  This could include Python, SQL, Excel, Power BI, Websites and more.
+~~No tools used~~
 
 ## Files Used 
+
+~~No files used~~
 
 - Did you use any datafiles?  
 - List filenames
@@ -39,7 +39,7 @@ Discussed all programming languages and tools used in this project.  This could 
 
 ## How to Run Program
 
-Explain here how you would run the program and what files need to be available. 
+*how to run a program*
 ```text
 Hello_World/
 └── 
@@ -51,8 +51,7 @@ Hello_World/
 ```
 ## Additional Information
 
-Here is where you can add links or talk about results or how you are using this information.  This is your place to share more.  
- For now, I'm going to add a few additional Markdown Options: 
+**Very important additional information in bold.**
  
    **BOLD** text 
    
@@ -63,5 +62,5 @@ Here is where you can add links or talk about results or how you are using this 
    ***Bold and Italics*** text
    
    > Quote information
-> "sdfsdfsd"
+> "a person who thinks all the time has nothing to think about except thoughts"
    
