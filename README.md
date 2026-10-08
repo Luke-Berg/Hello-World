@@ -1,10 +1,10 @@
 # Hello-World
 My first practice repository. 
 
-# My First Repository
+# My First Repository in big heading
 This is a sample of a good README.md file that can be used when describing a project.  
  
-## Table of contents
+## Table of contents in medium heading
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -17,7 +17,7 @@ This is a sample of a good README.md file that can be used when describing a pro
 
 *Hello World Sample - My First Repository*   
 
-## Description
+### <ins>Description in small heading underlined</ins> 
 
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. This should explain in detail what you did in this project, what you accomplished, outcomes, results, so on.  Make this a couple of paragraphs.
 
